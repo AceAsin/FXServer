@@ -1,13 +1,13 @@
-# GTA V Online: FiveM Server
+# GTA V: FiveM Server
 
-Required - Files for \<server-data> folder.
+- Required - Files for \<server-data> folder.
 
-1. `permissions.cfg`
-2. `server.cfg`
+  1. `permissions.cfg`
+  2. `server.cfg`
 
 ## Optional
 
-- EUP
+- Install
   - [Emergency Uniform Pack - Client/Server Sided](https://forum.cfx.re/t/emergency-uniform-pack-client-server-sided-easy-install-update-5-0-announcement/97599)
 
 ## Resource
