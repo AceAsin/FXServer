@@ -1,9 +1,11 @@
 # GTA V: FiveM Server
 
-- Required - Files for \<server-data> folder.
+- Documentation
+  - [FXServer - Setting Up A Server](https://docs.fivem.net/docs/server-manual/setting-up-a-server/)
+- Required
 
-  - `permissions.cfg`
-  - `server.cfg`
+  - [vMenu - permissions.cfg](https://github.com/TomGrobbe/vMenu/blob/master/vMenuServer/config/permissions.cfg)
+  - [FiveM - server.cfg](https://docs.fivem.net/docs/server-manual/setting-up-a-server/#a-nameservercfgexampleaservercfg)
 
 ## Optional
 
