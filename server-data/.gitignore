@@ -1,3 +1,5 @@
+*.db
 *.cfg
 /cache/
+/db/
 /resources/\[local\]/
