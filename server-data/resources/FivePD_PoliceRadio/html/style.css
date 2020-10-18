@@ -1,0 +1,17 @@
+#radio {
+	
+}
+
+.option {
+	height: auto;
+	position: fixed;
+	bottom: 0px;
+	right: 16px;
+}
+
+.background {
+	height: auto;
+	position: fixed;
+	bottom: 0px;
+	right: 16px;
+}

@@ -1,0 +1,42 @@
+{
+  "database": {
+    "username": "Ace Asin",
+    "password": "oByhdbgCjVuOw4Zy",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "fivepd"
+  },
+  "callouts": {
+    "MinimumTimeBeforeCall": 45,
+    "MaximumTimeBeforeCall": 180,
+    "CalloutExpirationTime": 30,
+    "CalloutChance": 65
+  },
+  "MaximumReportLength": 1000,
+  "MaximumFineAmount": 1000000,
+  "MaximumFineAmountPoint": 100,
+  "MaximumCallLength": 125,
+  "MaximumOfficerNameLength": 125,
+  "MaximumAINameLength": 50,
+  "MaximumNumberOfInvolvedOfficers": 32,
+  "MaximumNumberOfSuspects": 32,
+  "MaximumNumberOfVictims": 32,
+  "MaximumViolationCount": 32,
+  "IsSignatureEnabled": true,
+  "MaximumSignatureSize": 10.0,
+  "MaximumStreetNameLength": 25,
+  "MaximumCityNameLength": 30,
+  "MaximumZIPLength": 10,
+  "MaximumChargeCount": 15,
+  "MaximumReportCount": 100,
+  "MaximumCitationCount": 100,
+  "MinimumCallsignLength": 1,
+  "MaximumCallsignLength": 15,
+  "DisableCode99": false,
+  "AdminCode": "MCMXCVII",
+  "Discord": {
+    "enable": true,
+    "token": "<token>"
+  },
+  "Allowlist": false
+}

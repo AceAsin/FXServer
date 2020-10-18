@@ -1,0 +1,117 @@
+{
+	"police": [
+		{
+			"name": "Police",
+			"vehicle": "police"
+		},
+		{
+			"name": "Police 2",
+			"vehicle": "police2"
+		},
+		{
+			"name": "Police 3",
+			"vehicle": "police3"
+		},
+		{
+			"name": "Police 4",
+			"vehicle": "police4"
+		},
+		{
+			"name": "FBI",
+			"vehicle": "fbi"
+		},
+		{
+			"name": "FBI 2",
+			"vehicle": "fbi2"
+		},
+		{
+			"name": "Sheriff 1",
+			"vehicle": "sheriff"
+		},
+		{
+			"name": "Sheriff 2",
+			"vehicle": "sheriff2"
+		},
+		{
+			"name": "Police Ranger",
+			"vehicle": "pranger"
+		},
+		{
+			"name": "Riot",
+			"vehicle": "riot"
+		},
+		{
+			"name": "Riot 2",
+			"vehicle": "riot2"
+		},
+		{
+			"name": "Police Transporter",
+			"vehicle": "policet"
+		},
+		{
+			"name": "Police Old 1",
+			"vehicle": "policeold1"
+		},
+		{
+			"name": "Police Old 2",
+			"vehicle": "policeold2"
+        },
+        {
+			"name": "Camaro SS LEO 2020",
+			"vehicle": "20camaro"
+        },
+        {
+			"name": "Camaro ZL1 BB 2018",
+			"vehicle": "camaroBB"
+        },
+        {
+			"name": "Camaro ZL1 RB 2018",
+			"vehicle": "camaroRB"
+        },
+        {
+			"name": "Charger V1",
+			"vehicle": "chargeV1"
+        },
+        {
+			"name": "Mustang GTR 2015",
+			"vehicle": "gtr2015"
+        },
+        {
+			"name": "Mikker Camaro",
+			"vehicle": "mikkercamaro"
+        },
+        {
+            "name": "Chevy Tahoe BB 2021",
+			"vehicle": "Phantom21TahoeBB"
+        },
+        {
+            "name": "Chevy Tahoe RB 2021",
+            "vehicle": "Phantom21Tahoe"
+        },
+        {
+			"name": "Chevy Tahoe RW 2021",
+			"vehicle": "Phantom21TahoeRW"
+        },
+        {
+			"name": "Undercover Bugatti Divo 2019",
+			"vehicle": "tn_divo"
+        },
+        {
+			"name": "ZR1 Corvette BB 2019",
+			"vehicle": "zr1BB"
+        },
+        {
+			"name": "ZR1 Corvette RB 2019",
+			"vehicle": "zr1RB"
+        }
+        
+	],
+	"ambulance": "ambulance",
+	"airAmbulance": "polmav",
+	"firedept": "firetruk",
+	"coroner": "speedo",
+	"towtruck": "flatbed",
+	"mechanic": "utillitruck3",
+	"prisontransport": "police",
+	"animalControl": "bison"
+}
