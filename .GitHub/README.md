@@ -2,8 +2,8 @@
 
 - Required - Files for \<server-data> folder.
 
-  1. `permissions.cfg`
-  2. `server.cfg`
+  - `permissions.cfg`
+  - `server.cfg`
 
 ## Optional
 
